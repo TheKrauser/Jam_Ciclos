@@ -3,19 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - StartBoss
+  - FxTemporaire
+  - Ground
+  - Walls
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Ground
   - Wall
-  - 
-  - 
-  - 
+  - Enemy
+  - Boss
+  - Tilemap
   - 
   - 
   - 

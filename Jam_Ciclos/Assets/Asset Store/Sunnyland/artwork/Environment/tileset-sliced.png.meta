@@ -13,7 +13,7 @@ TextureImporter:
     second: C3
   - first:
       213: 21300006
-    second: tileset-sliced_3
+    second: T1
   - first:
       213: 21300008
     second: tileset-sliced_4
@@ -82,7 +82,7 @@ TextureImporter:
     second: C6
   - first:
       213: 21300052
-    second: tileset-sliced_26
+    second: T3
   - first:
       213: 21300054
     second: tileset-sliced_27
@@ -115,7 +115,7 @@ TextureImporter:
     second: C9
   - first:
       213: 21300074
-    second: tileset-sliced_37
+    second: T4
   - first:
       213: 21300076
     second: tileset-sliced_38
@@ -142,7 +142,7 @@ TextureImporter:
     second: Grama02
   - first:
       213: 21300092
-    second: tileset-sliced_46
+    second: T2
   - first:
       213: 21300094
     second: tileset-sliced_47
@@ -562,7 +562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_3
+      name: T1
       rect:
         serializedVersion: 2
         x: 112
@@ -1045,7 +1045,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_26
+      name: T3
       rect:
         serializedVersion: 2
         x: 112
@@ -1276,7 +1276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_37
+      name: T4
       rect:
         serializedVersion: 2
         x: 112
@@ -1465,7 +1465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_46
+      name: T2
       rect:
         serializedVersion: 2
         x: 80
